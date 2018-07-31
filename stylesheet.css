@@ -1,0 +1,9 @@
+h1 {
+color:darkblue;
+text-align: center;
+font-size: 36px;
+}
+img.resize {
+  max-width:35%;
+  max-height:35%;
+}

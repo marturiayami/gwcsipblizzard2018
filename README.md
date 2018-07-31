@@ -1,1 +1,4 @@
-# gwcsipblizzard2018
+# Girls Who Code SIP Repository
+
+## Author
+Marturia Yami
